@@ -1,6 +1,8 @@
 void main()
 {
-    
+       
+
+       
     int i, j;
     char a;
     for(i=1; i<=4; i++)
