@@ -14,9 +14,6 @@ void main()
     }*/
     //int merger = 10 * (count-k-1);
  //   printf("%d",10 * (count-k-1););
-
-
-
      int ans = (p2*100000)+p1;
      printf("%d",ans);
 
