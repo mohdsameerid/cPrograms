@@ -1,8 +1,7 @@
 void main(){
     int i, j;
     char a;
-    for(i=1; i<=4; i++)
-    {
+    for(i=1; i<=4; i++){
         a=65;
         for(j=1; j<=7; j++)
         {
