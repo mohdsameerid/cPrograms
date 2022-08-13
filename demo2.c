@@ -1,5 +1,7 @@
 #include<math.h>
 
+
+
 void main()
 {
     int n = 5,apoint,bpoint, sum;
